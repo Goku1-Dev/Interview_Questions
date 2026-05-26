@@ -1,0 +1,29 @@
+1.What is JavaScript?
+JavaScript is a programming language used to make web pages interactive and dynamic.
+
+2.Difference between var, let, const
+var can be redeclared and reassigned, let can be reassigned but not redeclared, and const cannot be redeclared or reassigned.
+
+3.What is scope?
+Scope is the area where a variable can be accessed or used in a program.
+
+4.Difference between global scope and local scope
+Global scope variables can be accessed anywhere in the program, while local scope variables can be accessed only inside the function or block where they are declared.
+
+5.What is block scope?
+Block scope means a variable can be accessed only inside the block `{ }` where it is declared.
+
+6.What is hoisting?
+Hoisting is JavaScript's behavior of moving variable and function declarations to the top of their scope before execution.
+
+7.What is temporal dead zone?
+Temporal Dead Zone (TDZ) is the time between variable declaration and initialization where the variable cannot be accessed.
+
+8.Can we redeclare variables?
+var variables can be redeclared, but let and const variables cannot be redeclared.
+
+9.Can we reassign variables?
+var and let variables can be reassigned, but const variables cannot be reassigned.
+
+10.What are naming rules in JavaScript?
+In JavaScript, variable names must start with a letter, _, or $, and cannot contain spaces or start with numbers.

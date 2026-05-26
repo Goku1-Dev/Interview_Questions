@@ -1,0 +1,37 @@
+1.What are primitive data types?
+Primitive data types are basic data types that store a single value, such as string, number, boolean, null, undefined, bigint, and symbol.
+
+2.What is non-primitive datatype?
+Non-primitive data types are data types that can store multiple values or complex data, such as objects, arrays, and functions.
+
+3.Difference between null and undefined
+undefined means a variable is declared but no value is assigned, while null means an empty value is intentionally assigned.
+
+4.Difference between NaN and undefined
+undefined means a variable is declared but not assigned any value, while NaN means “Not a Number” and occurs when a value is not a valid number after a numeric operation.
+
+5.How to check datatype?
+We use typeof operator.
+Example:
+typeof "hello";   // "string"
+typeof 10;        // "number"
+typeof true;      // "boolean"
+typeof undefined; // "undefined"
+
+6.What is type coercion?
+Type coercion is the automatic conversion of one data type into another by JavaScript during operations.
+Example:
+"5" + 1   // "51" (number converted to string)
+"5" - 1   // 4   (string converted to number)
+
+7.Difference between == and ===
+== compares values with type conversion, while === compares both value and type without conversion.
+
+8.Truthy and Falsy values
+Truthy values are values that are treated as true in conditions, and Falsy values are values that are treated as false.
+
+9.What is boolean conversion?
+Boolean conversion is the process of converting any value into a true or false.
+
+10.What is template literal?
+emplate literal is a way to write strings using backticks (`) that allows embedding variables and expressions easily.
