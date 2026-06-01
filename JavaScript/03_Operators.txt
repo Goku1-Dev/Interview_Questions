@@ -1,0 +1,42 @@
+1.Arithmetic operators
+Arithmetic operators are used to perform mathematical operations in JavaScript.
+Examples:
++ → Addition
+- → Subtraction
+* → Multiplication
+/ → Division
+% → Modulus
+** → Exponentiation
+++ → Increment
+-- → Decrement
+
+2.Assignment operators
+Assignment operators are used to assign values to variables in JavaScript.
+Examples:
+= → Assign
++= → Add and assign
+-= → Subtract and assign
+*= → Multiply and assign
+/= → Divide and assign
+%= → Modulus and assign
+
+4.Comparison operators
+Comparison operators are used to compare two values and return true or false.
+Examples:
+== → Equal to
+=== → Strict equal to
+!= → Not equal to
+!== → Strict not equal to
+> → Greater than
+< → Less than
+>= → Greater than or equal to
+<= → Less than or equal to
+
+5.Logical operators
+Logical operators are used to combine or check conditions in JavaScript.
+Examples:
+&& → AND
+|| → OR
+! → NOT
+
+6.Ternary operator
